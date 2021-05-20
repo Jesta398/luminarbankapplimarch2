@@ -1,0 +1,15 @@
+git init:initilaizing an repository
+
+git status:will list all untracked files
+
+git add:moving untracked files to sa
+
+git commit:moving files to sa-lr
+
+git log-list all history
+
+git checkout:switching to other branch
+
+git remote -v
+
+gitr push name branch
